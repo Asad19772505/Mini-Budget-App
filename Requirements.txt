@@ -1,0 +1,11 @@
+# Budget Tracker - Python Requirements
+# This app uses only Python standard library modules
+# No external dependencies required!
+
+# The following standard library modules are used:
+# - json (for data storage)
+# - os (for file operations)
+# - datetime (for date handling)
+# - collections (for defaultdict)
+
+# If you want to run this with Python 3.6+, no pip installs needed!
